@@ -11,6 +11,7 @@ will see the rendered markdown file.
 
 See `complete` branch for an example.
 
-> "Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself."
+> "Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself."  
 -- Henry James
-read more about the author: https://en.wikiquote.org/wiki/Henry_James
+
+Read more about the author: https://en.wikiquote.org/wiki/Henry_James
